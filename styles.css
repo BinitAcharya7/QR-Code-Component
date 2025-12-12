@@ -1,0 +1,71 @@
+* {
+    font-family: "Outfit", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --slate-300: hsl(212, 45%, 89%);
+    --slate-500: hsl(216, 15%, 48%);
+    --slate-900: hsl(218, 44%, 22%);
+    --spacing-200: 16px;
+    --spacing-300: 24px;
+    --spacing-500: 40px;
+}
+
+body {
+    background-color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    padding: var(--spacing-200);
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 320px; 
+    height: 499px; 
+    border-radius: 20px;
+    /* background-color: var(--slate-300); */
+    padding: 16px 16px 40px 16px;
+    /* box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.5); */
+}
+
+.qr-code{
+    height: 288px;
+    width: 288px;
+    background-image: url("images/image-qr-code.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: var(--spacing-300);
+} /* Avoid margins by putting the h2 and p in a separate container and qr code in a separate one with gaps of 200 and 300 (custom variables) respectively */
+
+h2 {
+    max-width: 288px;
+    color: var(--slate-900);
+}
+
+p {
+    max-width: 256px;
+    margin-top: var(--spacing-200); 
+    color: var(--slate-500);
+}
+
+@media (max-width: 450px) {
+    body {
+        padding: 20%;
+    }
+}
+
