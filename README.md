@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -26,10 +24,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/BinitAcharya7/QR-Code-Component)
+- Live Site URL: [QR Code Component](https://binitacharya7.github.io/QR-Code-Component/)
 
 ## My process
+- I opened the design file in Figma and looked for what layouts and spacing would work best.
+- I then structured my HTML with the three main elements.
+- I then styled those elements using CSS Flexbox.
+- After comparing the design with my results, and making some tweaks I concluded the design was finished.
 
 ### Built with
 
@@ -61,24 +63,27 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-- Must get more comfortable with flebox
-- 
+- Must get more comfortable with using flebox.
+- Must learn how to plan out in advance what i must do by looking at the required design.
+- Must use Figma dev tools better
+- Must learn to tackle responsiveness easier using things like rem and percentages.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS Units](https://www.youtube.com/watch?v=N5wpD9Ov_To) - This helped learn what units are appropriate in what situations. I plan to use this approach going forward.
+- [CSS Flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE&t=1s) - Greatest video on Flexbox ever.
+-[Flexbox Froggy](https://flexboxfroggy.com/) - Great way to practice flexbox.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Binit Acharya](https://binitacharya.medium.com/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BinitAcharya7)
 - Twitter - [@yourusername](https://www.twitter.com/Binit_Acharya)
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks Web Dev Simplified and Kevin Powell for making my life easier.
 
