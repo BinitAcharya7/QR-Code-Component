@@ -79,8 +79,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Binit Acharya](https://binitacharya.medium.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BinitAcharya7)
-- Twitter - [@yourusername](https://www.twitter.com/Binit_Acharya)
+- Frontend Mentor - [@BinitAcharya7](https://www.frontendmentor.io/profile/BinitAcharya7)
+- Twitter - [@Binit_Acharya](https://www.twitter.com/Binit_Acharya)
 
 
 ## Acknowledgments
